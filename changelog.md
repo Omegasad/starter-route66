@@ -6,8 +6,12 @@ Team membership:
 - Philip Shin   
 
 Team conventions: Allman notation, markdown for changelog  
+
+---Version 1.5---Release Date: Jan 30, 2018---
+Added Echo subcontroller in subfolder controller (Johnny Lee)
+
 ---Version 1.4---Release Date: Jan 30, 2018---
-Added Delta default controller (Philip Shin)
+Added Delta subfolder controller (Philip Shin)
 
 ---Version 1.3---Release Date: Jan 30, 2018---
 Added Charlie subcontroller (Johnny Lee)
