@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Bravo extends Application
+class Welcome extends Application
 {
 
 	function __construct()
@@ -10,10 +10,12 @@ class Bravo extends Application
 	}
 
 	/**
-	 * Bravo for our app
+	 * Homepage for our app
 	 */
 	public function index()
 	{
-    $this->show(2);
+            $this->show(2);
+
 	}
+
 }
