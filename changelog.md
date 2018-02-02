@@ -7,6 +7,13 @@ Team membership:
 
 Team conventions: Allman notation, markdown for changelog  
 
+
+---Version 1.7---Release Date: Feb 01, 2018---
+Added India utility controller (Tony So) (Captain)
+
+---Version 1.6---Release Date: Feb 01, 2018---
+Added Kilo remapping controller (Tony So) (Captain)
+
 ---Version 1.5---Release Date: Feb 01, 2018---
 Added Juliet service controller (Tony So) (Captain)
 
