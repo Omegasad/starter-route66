@@ -1,6 +1,6 @@
 <?php
 
-class India extends Application
+class India extends CI_controller
 {
 	function __construct()
 	{
