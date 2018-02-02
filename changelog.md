@@ -7,6 +7,9 @@ Team membership:
 
 Team conventions: Allman notation, markdown for changelog
 
+---Version 1.11---Release Date: Feb 01, 2018---
+Fixed Bravo subfolder default controller (Johnny)
+
 ---Version 1.10---Release Date: Feb 01, 2018---
 Added Hotel controller (Johnny)
 
