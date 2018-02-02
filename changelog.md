@@ -7,18 +7,17 @@ Team membership:
 
 Team conventions: Allman notation, markdown for changelog
 
----Version 1.6---Release Date: Feb 01, 2018---
-Added Tango controller; Foxtrot remapped (Johnny Lee)
+---Version 1.9---Release Date: Feb 01, 2018---
+Added Foxtrot controller (Johnny)
 
+---Version 1.8---Release Date: Feb 01, 2018---
+Added India utility controller (Tony So)
 
 ---Version 1.7---Release Date: Feb 01, 2018---
-Added India utility controller (Tony So) (Captain)
+Added Kilo remapping controller (Tony So)
 
 ---Version 1.6---Release Date: Feb 01, 2018---
-Added Kilo remapping controller (Tony So) (Captain)
-
----Version 1.5---Release Date: Feb 01, 2018---
-Added Juliet service controller (Tony So) (Captain)
+Added Juliet service controller (Tony So)
 
 ---Version 1.5---Release Date: Jan 30, 2018---
 Added Echo subcontroller in subfolder controller (Johnny Lee)
