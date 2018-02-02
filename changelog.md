@@ -7,6 +7,9 @@ Team membership:
 
 Team conventions: Allman notation, markdown for changelog  
 
+---Version 1.5---Release Date: Feb 01, 2018---
+Added Juliet service controller (Tony So) (Captain)
+
 ---Version 1.5---Release Date: Jan 30, 2018---
 Added Echo subcontroller in subfolder controller (Johnny Lee)
 
