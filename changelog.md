@@ -5,7 +5,10 @@ Team membership:
 - Johnny Lee
 - Philip Shin   
 
-Team conventions: Allman notation, markdown for changelog  
+Team conventions: Allman notation, markdown for changelog
+
+---Version 1.6---Release Date: Feb 01, 2018---
+Added Tango controller; Foxtrot remapped (Johnny Lee)
 
 ---Version 1.5---Release Date: Jan 30, 2018---
 Added Echo subcontroller in subfolder controller (Johnny Lee)
