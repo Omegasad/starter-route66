@@ -57,3 +57,4 @@ $route['show/(:any)'] = 'welcome/show/$1';
 $route['bananas/rule'] = function() {
     return 'golf';
 };
+$route['i/.*'] = 'golf';

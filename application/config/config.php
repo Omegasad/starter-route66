@@ -10,7 +10,7 @@ $config['menu_choices'] = array(
         array('name' => 'Delta', 'link' => '/delta/Force'),
         array('name' => 'Echo', 'link' => '/echo/must/wehave'),
         array('name' => 'Foxtrot', 'link' => '/foxtrot'),
-        array('name' => 'Golf', 'link' => '#'),
+        array('name' => 'Golf', 'link' => '/i/need/a/hobby'),
         array('name' => 'Hotel', 'link' => '/bananas/rule'),
         array('name' => 'India', 'link' => '/india'),
         array('name' => 'Juliet', 'link' => '/juliet'),
